@@ -1,7 +1,6 @@
-# Podium website UI automated tests
+# UI automated tests
 This project contains code for user interface (UI) automated tests made
- with Python, Pytest and Selenium for the [Podium
- website](https://www.podium.com/). 
+ with Python, Pytest and Selenium for [this website](https://www.podium.com/). 
  Tests can run locally or inside a Docker container which is included and based 
  on the [official Selenium Chrome debugging Docker
   image](https://github.com/SeleniumHQ/docker-selenium/tree/selenium-3#debugging).
